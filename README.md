@@ -5,6 +5,9 @@ and private payloads do not need to be pasted into a chat or sent to a model.
 Eight Agent Skills cover 16 tools, powered by a standalone Rust CLI. Electron is
 optional. Regex testing is available in the desktop app, not this standalone set.
 
+[Explore LocalDevTools](https://usemiller.dev/local-dev-tools) for the desktop app,
+downloads and more ways to keep developer tasks local.
+
 ## Install
 
 ```sh
