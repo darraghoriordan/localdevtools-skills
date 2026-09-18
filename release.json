@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "tag": "cli-v0.1.0",
   "protocolVersion": 1,
-  "sourceCommit": "63dee427cb211671d2445fe93e52c6f045619a54",
+  "sourceCommit": "20451ab6b7c6e1c8055f7b9d83193d560122faee",
   "assets": {
     "darwin-arm64": {
       "name": "localdevtools-darwin-arm64",
@@ -18,12 +18,12 @@
     "win32-arm64": {
       "name": "localdevtools-win32-arm64.exe",
       "bytes": 6163968,
-      "sha256": "5d492949e7ff26c2940513beff68a3769407e218e8cee546620a134b21b3e973"
+      "sha256": "be2088341282b2a8ff52d5d282d4b08b73466cae843dc6560ca3f93506482de9"
     },
     "win32-x64": {
       "name": "localdevtools-win32-x64.exe",
       "bytes": 6610432,
-      "sha256": "9111afabe279abcbc1f902b83ee4c4e3aecc4d9c5326002b816ab24b1650103f"
+      "sha256": "7b1523f0b5865b214567aeb0da9ea8e1d4e30ec23376872babf14167a3db641b"
     },
     "linux-arm64": {
       "name": "localdevtools-linux-arm64",

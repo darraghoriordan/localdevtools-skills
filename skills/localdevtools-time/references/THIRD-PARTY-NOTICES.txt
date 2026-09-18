@@ -203,6 +203,7 @@ SOFTWARE.
 ## aho-corasick 1.1.5
 
 Declared license: Unlicense OR MIT
+Upstream authors: Andrew Gallant <jamslam@gmail.com>
 
 ### COPYING
 
@@ -240,6 +241,7 @@ THE SOFTWARE.
 ## android_system_properties 0.1.6
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: Nicolas Silva <nical@fastmail.com>
 
 ### LICENSE-APACHE
 
@@ -286,6 +288,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ## arboard 3.6.1
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### LICENSE-APACHE.txt
 
@@ -497,6 +500,7 @@ SOFTWARE.
 ## autocfg 1.5.1
 
 Declared license: Apache-2.0 OR MIT
+Upstream authors: Josh Stone <cuviper@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -736,6 +740,7 @@ DEALINGS IN THE SOFTWARE.
 ## base64 0.22.1
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: Marshall Pierce <marshall@mpierce.org>
 
 ### LICENSE-APACHE
 
@@ -971,6 +976,7 @@ THE SOFTWARE.
 ## bitflags 2.13.2
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: The Rust Project Developers
 
 ### LICENSE-APACHE
 
@@ -1210,6 +1216,7 @@ DEALINGS IN THE SOFTWARE.
 ## block-buffer 0.10.4
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: RustCrypto Developers
 
 ### LICENSE-APACHE
 
@@ -1449,6 +1456,7 @@ DEALINGS IN THE SOFTWARE.
 ## bumpalo 3.20.3
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: Nick Fitzgerald <fitzgen@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -1688,6 +1696,7 @@ DEALINGS IN THE SOFTWARE.
 ## calendrical_calculations 0.2.4
 
 Declared license: Apache-2.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -1897,6 +1906,7 @@ Declared license: Apache-2.0
 ## cc 1.4.6
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### LICENSE-APACHE
 
@@ -2136,6 +2146,7 @@ DEALINGS IN THE SOFTWARE.
 ## cfg-if 1.0.5
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: Alex Crichton <alex@alexcrichton.com>
 
 ### LICENSE-APACHE
 
@@ -2375,6 +2386,7 @@ DEALINGS IN THE SOFTWARE.
 ## chrono-tz 0.10.4
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### LICENSE
 
@@ -2612,6 +2624,7 @@ limitations under the License.
 ## chrono 0.4.45
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### LICENSE.txt
 
@@ -2861,6 +2874,7 @@ limitations under the License.
 ## clipboard-win 5.4.1
 
 Declared license: BSL-1.0
+Upstream authors: Douman <douman@gmx.se>
 
 ### clipboard-win.txt
 
@@ -2893,6 +2907,7 @@ DEALINGS IN THE SOFTWARE.
 ## core_maths 0.1.1
 
 Declared license: MIT
+Upstream authors: Robert Bastian <me@robertbastian.dev
 
 ### LICENSE
 
@@ -2922,6 +2937,7 @@ SOFTWARE.
 ## core-foundation-sys 0.8.7
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: The Servo Project Developers
 
 ### LICENSE-APACHE
 
@@ -3161,6 +3177,7 @@ DEALINGS IN THE SOFTWARE.
 ## cpufeatures 0.2.17
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: RustCrypto Developers
 
 ### LICENSE-APACHE
 
@@ -3400,6 +3417,7 @@ DEALINGS IN THE SOFTWARE.
 ## croner 3.0.1
 
 Declared license: MIT
+Upstream authors: 
 
 ### LICENSE.md
 
@@ -3429,6 +3447,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ## crypto-common 0.1.7
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: RustCrypto Developers
 
 ### LICENSE-APACHE
 
@@ -3668,6 +3687,7 @@ DEALINGS IN THE SOFTWARE.
 ## csscolorparser 0.7.2
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: Nor Khasyatillah <mazznoer@ymail.com>
 
 ### LICENSE-APACHE
 
@@ -3903,6 +3923,7 @@ SOFTWARE.
 ## darling_core 0.20.11
 
 Declared license: MIT
+Upstream authors: Ted Driggs <ted.driggs@outlook.com>
 
 ### LICENSE
 
@@ -3933,6 +3954,7 @@ SOFTWARE.
 ## darling_macro 0.20.11
 
 Declared license: MIT
+Upstream authors: Ted Driggs <ted.driggs@outlook.com>
 
 ### LICENSE
 
@@ -3963,6 +3985,7 @@ SOFTWARE.
 ## darling 0.20.11
 
 Declared license: MIT
+Upstream authors: Ted Driggs <ted.driggs@outlook.com>
 
 ### LICENSE
 
@@ -3993,6 +4016,7 @@ SOFTWARE.
 ## derive_builder_core 0.20.2
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: Colin Kiegel <kiegel@gmx.de>, Pascal Hertleif <killercup@gmail.com>, Jan-Erik Rediger <janerik@fnordig.de>, Ted Driggs <ted.driggs@outlook.com>
 
 ### LICENSE-APACHE
 
@@ -4229,6 +4253,7 @@ SOFTWARE.
 ## derive_builder_macro 0.20.2
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: Colin Kiegel <kiegel@gmx.de>, Pascal Hertleif <killercup@gmail.com>, Jan-Erik Rediger <janerik@fnordig.de>, Ted Driggs <ted.driggs@outlook.com>
 
 ### LICENSE-APACHE
 
@@ -4465,6 +4490,7 @@ SOFTWARE.
 ## derive_builder 0.20.2
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: Colin Kiegel <kiegel@gmx.de>, Pascal Hertleif <killercup@gmail.com>, Jan-Erik Rediger <janerik@fnordig.de>, Ted Driggs <ted.driggs@outlook.com>
 
 ### LICENSE-APACHE
 
@@ -4701,6 +4727,7 @@ SOFTWARE.
 ## digest 0.10.7
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: RustCrypto Developers
 
 ### LICENSE-APACHE
 
@@ -4940,6 +4967,32 @@ DEALINGS IN THE SOFTWARE.
 ## dispatch2 0.3.1
 
 Declared license: Zlib OR Apache-2.0 OR MIT
+Upstream authors: Mads Marquart <mads@marquart.dk>, Mary <mary@mary.zone>
+
+### objc2-mit.txt
+
+MIT license option for the objc2 family of crates.
+Upstream authors are listed with each crate in THIRD-PARTY-NOTICES.txt.
+Upstream licensing declaration: https://github.com/madsmtm/objc2/blob/8852b424193ca41602281b3d7540d7c8ed51e49a/LICENSE.md
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
 
 ### objc2.txt
 
@@ -4983,6 +5036,7 @@ Xcode you have already agreed to the Xcode license).
 ## displaydoc 0.2.7
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: Jane Lusby <jlusby@yaah.dev>
 
 ### LICENSE-APACHE
 
@@ -5220,6 +5274,7 @@ DEALINGS IN THE SOFTWARE.
 ## downcast-rs 1.2.1
 
 Declared license: MIT/Apache-2.0
+Upstream authors: Ashish Myles <marcianx@gmail.com>, Runji Wang <wangrunji0408@163.com>
 
 ### LICENSE-APACHE
 
@@ -5459,6 +5514,7 @@ DEALINGS IN THE SOFTWARE.
 ## either 1.18.0
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### LICENSE-APACHE
 
@@ -5698,6 +5754,7 @@ DEALINGS IN THE SOFTWARE.
 ## equivalent 1.0.2
 
 Declared license: Apache-2.0 OR MIT
+Upstream authors: 
 
 ### LICENSE-APACHE
 
@@ -5937,6 +5994,7 @@ DEALINGS IN THE SOFTWARE.
 ## errno 0.3.14
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: Chris Wong <lambda.fairy@gmail.com>, Dan Gohman <dev@sunfishcode.online>
 
 ### LICENSE-APACHE
 
@@ -6176,6 +6234,7 @@ DEALINGS IN THE SOFTWARE.
 ## error-code 3.4.0
 
 Declared license: BSL-1.0
+Upstream authors: Douman <douman@gmx.se>
 
 ### LICENSE
 
@@ -6208,6 +6267,7 @@ DEALINGS IN THE SOFTWARE.
 ## fastrand 2.5.0
 
 Declared license: Apache-2.0 OR MIT
+Upstream authors: Stjepan Glavina <stjepang@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -6445,6 +6505,7 @@ DEALINGS IN THE SOFTWARE.
 ## find-msvc-tools 0.1.12
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### LICENSE-APACHE
 
@@ -6684,6 +6745,7 @@ DEALINGS IN THE SOFTWARE.
 ## fixed_decimal 0.7.2
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -6739,6 +6801,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## fixedbitset 0.5.7
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: bluss
 
 ### LICENSE-APACHE
 
@@ -6978,6 +7041,7 @@ DEALINGS IN THE SOFTWARE.
 ## fnv 1.0.7
 
 Declared license: Apache-2.0 / MIT
+Upstream authors: Alex Crichton <alex@alexcrichton.com>
 
 ### LICENSE-APACHE
 
@@ -7217,6 +7281,7 @@ DEALINGS IN THE SOFTWARE.
 ## foldhash 0.1.5
 
 Declared license: Zlib
+Upstream authors: Orson Peters <orsonpeters@gmail.com>
 
 ### LICENSE
 
@@ -7244,6 +7309,7 @@ the following restrictions:
 ## form_urlencoded 1.2.2
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: The rust-url developers
 
 ### LICENSE-APACHE
 
@@ -7483,6 +7549,7 @@ DEALINGS IN THE SOFTWARE.
 ## futures-core 0.3.34
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### LICENSE-APACHE
 
@@ -7724,6 +7791,7 @@ DEALINGS IN THE SOFTWARE.
 ## futures-task 0.3.34
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### LICENSE-APACHE
 
@@ -7965,6 +8033,7 @@ DEALINGS IN THE SOFTWARE.
 ## futures-util 0.3.34
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### LICENSE-APACHE
 
@@ -8206,6 +8275,7 @@ DEALINGS IN THE SOFTWARE.
 ## generic-array 0.14.7
 
 Declared license: MIT
+Upstream authors: Bartłomiej Kamiński <fizyk20@gmail.com>, Aaron Trent <novacrazy@gmail.com>
 
 ### LICENSE
 
@@ -8235,6 +8305,7 @@ SOFTWARE.
 ## gethostname 1.1.0
 
 Declared license: Apache-2.0
+Upstream authors: Sebastian Wiesner <sebastian@swsnr.de>
 
 ### LICENSE
 
@@ -8445,6 +8516,7 @@ limitations under the License.
 ## getrandom 0.4.3
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: The Rand Project Developers
 
 ### LICENSE-APACHE
 
@@ -8685,6 +8757,7 @@ DEALINGS IN THE SOFTWARE.
 ## hashbrown 0.15.5
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: Amanieu d'Antras <amanieu@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -8924,6 +8997,7 @@ DEALINGS IN THE SOFTWARE.
 ## hashbrown 0.17.1
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### LICENSE-APACHE
 
@@ -9163,6 +9237,7 @@ DEALINGS IN THE SOFTWARE.
 ## heck 0.5.0
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### LICENSE-APACHE
 
@@ -9402,6 +9477,7 @@ DEALINGS IN THE SOFTWARE.
 ## hmac 0.12.1
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: RustCrypto Developers
 
 ### LICENSE-APACHE
 
@@ -9641,6 +9717,7 @@ DEALINGS IN THE SOFTWARE.
 ## iana-time-zone-haiku 0.1.2
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: René Kijewski <crates.io@k6i.de>
 
 ### LICENSE-APACHE
 
@@ -9880,6 +9957,7 @@ DEALINGS IN THE SOFTWARE.
 ## iana-time-zone 0.1.65
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: Andrew Straw <strawman@astraw.com>, René Kijewski <rene.kijewski@fu-berlin.de>, Ryan Lopopolo <rjl@hyperbo.la>
 
 ### LICENSE-APACHE
 
@@ -10119,6 +10197,7 @@ DEALINGS IN THE SOFTWARE.
 ## icu_calendar_data 2.3.0
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -10174,6 +10253,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## icu_calendar 2.3.0
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -10229,6 +10309,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## icu_collator_data 2.3.0
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -10284,6 +10365,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## icu_collator 2.3.1
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -10339,6 +10421,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## icu_collections 2.3.0
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -10394,6 +10477,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## icu_datetime_data 2.3.0
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -10449,6 +10533,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## icu_datetime 2.3.0
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -10504,6 +10589,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## icu_decimal_data 2.3.0
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -10559,6 +10645,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## icu_decimal 2.3.0
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -10614,6 +10701,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## icu_locale_core 2.3.0
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -10669,6 +10757,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## icu_locale_data 2.3.0
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -10724,6 +10813,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## icu_locale_fallback_data 2.3.0
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -10779,6 +10869,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## icu_locale_fallback 2.3.0
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -10834,6 +10925,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## icu_locale 2.3.1
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -10889,6 +10981,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## icu_normalizer_data 2.3.0
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -10944,6 +11037,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## icu_normalizer 2.3.0
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -10999,6 +11093,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## icu_pattern 0.5.0
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -11054,6 +11149,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## icu_plurals_data 2.3.0
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -11109,6 +11205,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## icu_plurals 2.3.0
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -11164,6 +11261,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## icu_properties_data 2.3.0
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -11219,6 +11317,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## icu_properties 2.3.0
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -11274,6 +11373,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## icu_provider 2.3.1
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -11329,6 +11429,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## icu_time_data 2.3.0
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -11384,6 +11485,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## icu_time 2.3.0
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -11439,6 +11541,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## ident_case 1.0.1
 
 Declared license: MIT/Apache-2.0
+Upstream authors: Ted Driggs <ted.driggs@outlook.com>
 
 ### LICENSE
 
@@ -11467,6 +11570,7 @@ SOFTWARE.
 ## idna_adapter 1.2.2
 
 Declared license: Apache-2.0 OR MIT
+Upstream authors: The rust-url developers
 
 ### LICENSE-APACHE
 
@@ -11706,6 +11810,7 @@ DEALINGS IN THE SOFTWARE.
 ## idna 1.1.0
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: The rust-url developers
 
 ### LICENSE-APACHE
 
@@ -11945,6 +12050,7 @@ DEALINGS IN THE SOFTWARE.
 ## indexmap 2.14.2
 
 Declared license: Apache-2.0 OR MIT
+Upstream authors: 
 
 ### LICENSE-APACHE
 
@@ -12184,6 +12290,7 @@ DEALINGS IN THE SOFTWARE.
 ## itoa 1.0.18
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: David Tolnay <dtolnay@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -12396,6 +12503,7 @@ DEALINGS IN THE SOFTWARE.
 ## ixdtf 0.6.6
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -12451,6 +12559,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## js-sys 0.3.105
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: The wasm-bindgen Developers
 
 ### LICENSE-APACHE
 
@@ -12690,6 +12799,7 @@ DEALINGS IN THE SOFTWARE.
 ## libc 0.2.189
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### LICENSE-APACHE
 
@@ -12904,6 +13014,7 @@ DEALINGS IN THE SOFTWARE.
 ## libm 0.2.16
 
 Declared license: MIT
+Upstream authors: Alex Crichton <alex@alexcrichton.com>, Amanieu d'Antras <amanieu@gmail.com>, Jorge Aparicio <japaricious@gmail.com>, Trevor Gross <tg@trevorgross.com>
 
 ### LICENSE.txt
 
@@ -13171,6 +13282,7 @@ Copyright notices are retained in src/* files where relevant.
 ## linux-raw-sys 0.12.1
 
 Declared license: Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT
+Upstream authors: Dan Gohman <dev@sunfishcode.online>
 
 ### COPYRIGHT
 
@@ -13665,6 +13777,7 @@ DEALINGS IN THE SOFTWARE.
 ## litemap 0.8.3
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -13720,6 +13833,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## lock_api 0.4.14
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: Amanieu d'Antras <amanieu@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -13959,6 +14073,7 @@ DEALINGS IN THE SOFTWARE.
 ## log 0.4.34
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: The Rust Project Developers
 
 ### LICENSE-APACHE
 
@@ -14198,6 +14313,7 @@ DEALINGS IN THE SOFTWARE.
 ## memchr 2.8.3
 
 Declared license: Unlicense OR MIT
+Upstream authors: Andrew Gallant <jamslam@gmail.com>, bluss
 
 ### COPYING
 
@@ -14235,6 +14351,7 @@ THE SOFTWARE.
 ## nom 8.0.0
 
 Declared license: MIT
+Upstream authors: contact@geoffroycouprie.com
 
 ### LICENSE
 
@@ -14264,6 +14381,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ## num-traits 0.2.19
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: The Rust Project Developers
 
 ### LICENSE-APACHE
 
@@ -14503,6 +14621,7 @@ DEALINGS IN THE SOFTWARE.
 ## objc2-app-kit 0.3.2
 
 Declared license: Zlib OR Apache-2.0 OR MIT
+Upstream authors: 
 
 ### objc2-frameworks.txt
 
@@ -14540,12 +14659,38 @@ that only works when you have the correct Xcode SDK available to provide the
 required `.tbd` files, which is why we choose to still use the normal SPDX
 identifiers in the crates (Xcode is required to use the crates, and when using
 Xcode you have already agreed to the Xcode license).
+
+
+### objc2-mit.txt
+
+MIT license option for the objc2 family of crates.
+Upstream authors are listed with each crate in THIRD-PARTY-NOTICES.txt.
+Upstream licensing declaration: https://github.com/madsmtm/objc2/blob/8852b424193ca41602281b3d7540d7c8ed51e49a/LICENSE.md
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
 
 
 
 ## objc2-core-foundation 0.3.2
 
 Declared license: Zlib OR Apache-2.0 OR MIT
+Upstream authors: 
 
 ### objc2-frameworks.txt
 
@@ -14583,12 +14728,38 @@ that only works when you have the correct Xcode SDK available to provide the
 required `.tbd` files, which is why we choose to still use the normal SPDX
 identifiers in the crates (Xcode is required to use the crates, and when using
 Xcode you have already agreed to the Xcode license).
+
+
+### objc2-mit.txt
+
+MIT license option for the objc2 family of crates.
+Upstream authors are listed with each crate in THIRD-PARTY-NOTICES.txt.
+Upstream licensing declaration: https://github.com/madsmtm/objc2/blob/8852b424193ca41602281b3d7540d7c8ed51e49a/LICENSE.md
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
 
 
 
 ## objc2-core-graphics 0.3.2
 
 Declared license: Zlib OR Apache-2.0 OR MIT
+Upstream authors: 
 
 ### objc2-frameworks.txt
 
@@ -14626,12 +14797,38 @@ that only works when you have the correct Xcode SDK available to provide the
 required `.tbd` files, which is why we choose to still use the normal SPDX
 identifiers in the crates (Xcode is required to use the crates, and when using
 Xcode you have already agreed to the Xcode license).
+
+
+### objc2-mit.txt
+
+MIT license option for the objc2 family of crates.
+Upstream authors are listed with each crate in THIRD-PARTY-NOTICES.txt.
+Upstream licensing declaration: https://github.com/madsmtm/objc2/blob/8852b424193ca41602281b3d7540d7c8ed51e49a/LICENSE.md
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
 
 
 
 ## objc2-encode 4.1.0
 
 Declared license: MIT
+Upstream authors: Mads Marquart <mads@marquart.dk>
 
 ### objc2-frameworks.txt
 
@@ -14669,12 +14866,38 @@ that only works when you have the correct Xcode SDK available to provide the
 required `.tbd` files, which is why we choose to still use the normal SPDX
 identifiers in the crates (Xcode is required to use the crates, and when using
 Xcode you have already agreed to the Xcode license).
+
+
+### objc2-mit.txt
+
+MIT license option for the objc2 family of crates.
+Upstream authors are listed with each crate in THIRD-PARTY-NOTICES.txt.
+Upstream licensing declaration: https://github.com/madsmtm/objc2/blob/8852b424193ca41602281b3d7540d7c8ed51e49a/LICENSE.md
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
 
 
 
 ## objc2-foundation 0.3.2
 
 Declared license: MIT
+Upstream authors: 
 
 ### objc2-frameworks.txt
 
@@ -14712,12 +14935,38 @@ that only works when you have the correct Xcode SDK available to provide the
 required `.tbd` files, which is why we choose to still use the normal SPDX
 identifiers in the crates (Xcode is required to use the crates, and when using
 Xcode you have already agreed to the Xcode license).
+
+
+### objc2-mit.txt
+
+MIT license option for the objc2 family of crates.
+Upstream authors are listed with each crate in THIRD-PARTY-NOTICES.txt.
+Upstream licensing declaration: https://github.com/madsmtm/objc2/blob/8852b424193ca41602281b3d7540d7c8ed51e49a/LICENSE.md
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
 
 
 
 ## objc2-io-surface 0.3.2
 
 Declared license: Zlib OR Apache-2.0 OR MIT
+Upstream authors: 
 
 ### objc2-frameworks.txt
 
@@ -14757,10 +15006,61 @@ identifiers in the crates (Xcode is required to use the crates, and when using
 Xcode you have already agreed to the Xcode license).
 
 
+### objc2-mit.txt
+
+MIT license option for the objc2 family of crates.
+Upstream authors are listed with each crate in THIRD-PARTY-NOTICES.txt.
+Upstream licensing declaration: https://github.com/madsmtm/objc2/blob/8852b424193ca41602281b3d7540d7c8ed51e49a/LICENSE.md
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+
 
 ## objc2 0.6.4
 
 Declared license: MIT
+Upstream authors: Mads Marquart <mads@marquart.dk>
+
+### objc2-mit.txt
+
+MIT license option for the objc2 family of crates.
+Upstream authors are listed with each crate in THIRD-PARTY-NOTICES.txt.
+Upstream licensing declaration: https://github.com/madsmtm/objc2/blob/8852b424193ca41602281b3d7540d7c8ed51e49a/LICENSE.md
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
 
 ### objc2.txt
 
@@ -14804,6 +15104,7 @@ Xcode you have already agreed to the Xcode license).
 ## once_cell 1.21.4
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: Aleksey Kladov <aleksey.kladov@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -15041,6 +15342,7 @@ DEALINGS IN THE SOFTWARE.
 ## os_pipe 1.2.3
 
 Declared license: MIT
+Upstream authors: Jack O'Connor
 
 ### LICENSE
 
@@ -15069,6 +15371,7 @@ THE SOFTWARE.
 ## parking_lot_core 0.9.12
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: Amanieu d'Antras <amanieu@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -15308,6 +15611,7 @@ DEALINGS IN THE SOFTWARE.
 ## parking_lot 0.12.5
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: Amanieu d'Antras <amanieu@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -15547,6 +15851,7 @@ DEALINGS IN THE SOFTWARE.
 ## percent-encoding 2.3.2
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: The rust-url developers
 
 ### LICENSE-APACHE
 
@@ -15786,6 +16091,7 @@ DEALINGS IN THE SOFTWARE.
 ## petgraph 0.8.3
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: bluss, mitchmindtree
 
 ### LICENSE-APACHE
 
@@ -16025,6 +16331,7 @@ DEALINGS IN THE SOFTWARE.
 ## phf_generator 0.11.3
 
 Declared license: MIT
+Upstream authors: Steven Fackler <sfackler@gmail.com>
 
 ### LICENSE
 
@@ -16054,6 +16361,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ## phf_macros 0.11.3
 
 Declared license: MIT
+Upstream authors: Steven Fackler <sfackler@gmail.com>
 
 ### LICENSE
 
@@ -16083,6 +16391,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ## phf_shared 0.11.3
 
 Declared license: MIT
+Upstream authors: Steven Fackler <sfackler@gmail.com>
 
 ### LICENSE
 
@@ -16112,6 +16421,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ## phf_shared 0.12.1
 
 Declared license: MIT
+Upstream authors: Steven Fackler <sfackler@gmail.com>
 
 ### LICENSE
 
@@ -16141,6 +16451,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ## phf 0.11.3
 
 Declared license: MIT
+Upstream authors: Steven Fackler <sfackler@gmail.com>
 
 ### LICENSE
 
@@ -16170,6 +16481,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ## phf 0.12.1
 
 Declared license: MIT
+Upstream authors: Steven Fackler <sfackler@gmail.com>
 
 ### LICENSE
 
@@ -16199,6 +16511,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ## pin-project-lite 0.2.17
 
 Declared license: Apache-2.0 OR MIT
+Upstream authors: 
 
 ### LICENSE-APACHE
 
@@ -16412,6 +16725,7 @@ DEALINGS IN THE SOFTWARE.
 ## pkg-config 0.3.34
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: Alex Crichton <alex@alexcrichton.com>
 
 ### LICENSE-APACHE
 
@@ -16651,6 +16965,7 @@ DEALINGS IN THE SOFTWARE.
 ## potential_utf 0.1.6
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -16706,6 +17021,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## proc-macro2 1.0.107
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: David Tolnay <dtolnay@gmail.com>, Alex Crichton <alex@alexcrichton.com>
 
 ### LICENSE-APACHE
 
@@ -16918,6 +17234,7 @@ DEALINGS IN THE SOFTWARE.
 ## quick-xml 0.41.0
 
 Declared license: MIT
+Upstream authors: 
 
 ### LICENSE-MIT.md
 
@@ -16950,6 +17267,7 @@ THE SOFTWARE.
 ## quote 1.0.47
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: David Tolnay <dtolnay@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -17162,6 +17480,7 @@ DEALINGS IN THE SOFTWARE.
 ## r-efi 6.0.0
 
 Declared license: MIT OR Apache-2.0 OR LGPL-2.1-or-later
+Upstream authors: 
 
 ### AUTHORS
 
@@ -17246,6 +17565,7 @@ AUTHORS: (ordered alphabetically)
 ## rand_core 0.6.4
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: The Rand Project Developers, The Rust Project Developers
 
 ### COPYRIGHT
 
@@ -17488,6 +17808,7 @@ DEALINGS IN THE SOFTWARE.
 ## rand 0.8.8
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: The Rand Project Developers, The Rust Project Developers
 
 ### COPYRIGHT
 
@@ -17719,6 +18040,7 @@ DEALINGS IN THE SOFTWARE.
 ## redox_syscall 0.5.18
 
 Declared license: MIT
+Upstream authors: Jeremy Soller <jackpot51@gmail.com>
 
 ### LICENSE
 
@@ -17750,6 +18072,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ## regex-automata 0.4.18
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: The Rust Project Developers, Andrew Gallant <jamslam@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -17989,6 +18312,7 @@ DEALINGS IN THE SOFTWARE.
 ## regex-syntax 0.8.11
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: The Rust Project Developers, Andrew Gallant <jamslam@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -18228,6 +18552,7 @@ DEALINGS IN THE SOFTWARE.
 ## regex 1.13.1
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: The Rust Project Developers, Andrew Gallant <jamslam@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -18467,6 +18792,7 @@ DEALINGS IN THE SOFTWARE.
 ## rustix 1.1.5
 
 Declared license: Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT
+Upstream authors: Dan Gohman <dev@sunfishcode.online>, Jakub Konka <kubkon@jakubkonka.com>
 
 ### COPYRIGHT
 
@@ -18961,6 +19287,7 @@ DEALINGS IN THE SOFTWARE.
 ## rustversion 1.0.23
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: David Tolnay <dtolnay@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -19173,6 +19500,7 @@ DEALINGS IN THE SOFTWARE.
 ## ryu-js 1.0.3
 
 Declared license: Apache-2.0 OR BSL-1.0
+Upstream authors: David Tolnay <dtolnay@gmail.com>, boa-dev
 
 ### LICENSE-APACHE
 
@@ -19385,6 +19713,7 @@ DEALINGS IN THE SOFTWARE.
 ## scopeguard 1.2.0
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: bluss
 
 ### LICENSE-APACHE
 
@@ -19624,6 +19953,7 @@ DEALINGS IN THE SOFTWARE.
 ## serde_core 1.0.229
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: Erick Tryzelaar <erick.tryzelaar@gmail.com>, David Tolnay <dtolnay@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -19836,6 +20166,7 @@ DEALINGS IN THE SOFTWARE.
 ## serde_derive 1.0.229
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: Erick Tryzelaar <erick.tryzelaar@gmail.com>, David Tolnay <dtolnay@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -20048,6 +20379,7 @@ DEALINGS IN THE SOFTWARE.
 ## serde_json 1.0.151
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: Erick Tryzelaar <erick.tryzelaar@gmail.com>, David Tolnay <dtolnay@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -20260,6 +20592,7 @@ DEALINGS IN THE SOFTWARE.
 ## serde 1.0.229
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: Erick Tryzelaar <erick.tryzelaar@gmail.com>, David Tolnay <dtolnay@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -20472,6 +20805,7 @@ DEALINGS IN THE SOFTWARE.
 ## sha2 0.10.9
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: RustCrypto Developers
 
 ### LICENSE-APACHE
 
@@ -20713,6 +21047,7 @@ DEALINGS IN THE SOFTWARE.
 ## shlex 2.0.1
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: comex <comexk@gmail.com>, Fenhl <fenhl@fenhl.net>, Adrian Taylor <adetaylor@chromium.org>, Alex Touchet <alextouchet@outlook.com>, Daniel Parks <dp+git@oxidized.org>, Garrett Berg <googberg@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -20760,6 +21095,7 @@ THE SOFTWARE.
 ## siphasher 1.0.3
 
 Declared license: MIT/Apache-2.0
+Upstream authors: Frank Denis <github@pureftpd.org>
 
 ### COPYING
 
@@ -20776,6 +21112,7 @@ option.
 ## slab 0.4.12
 
 Declared license: MIT
+Upstream authors: Carl Lerche <me@carllerche.com>
 
 ### LICENSE
 
@@ -20810,6 +21147,7 @@ DEALINGS IN THE SOFTWARE.
 ## smallvec 1.16.1
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: The Servo Project Developers
 
 ### LICENSE-APACHE
 
@@ -21049,6 +21387,7 @@ DEALINGS IN THE SOFTWARE.
 ## stable_deref_trait 1.2.1
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: Robert Grosse <n210241048576@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -21287,6 +21626,7 @@ DEALINGS IN THE SOFTWARE.
 ## strsim 0.11.1
 
 Declared license: MIT
+Upstream authors: Danny Guo <danny@dannyguo.com>, maxbachmann <oss@maxbachmann.de>
 
 ### LICENSE
 
@@ -21319,6 +21659,7 @@ SOFTWARE.
 ## strum_macros 0.27.2
 
 Declared license: MIT
+Upstream authors: Peter Glotfelty <peter.glotfelty@microsoft.com>
 
 ### LICENSE
 
@@ -21349,6 +21690,7 @@ SOFTWARE.
 ## strum 0.27.2
 
 Declared license: MIT
+Upstream authors: Peter Glotfelty <peter.glotfelty@microsoft.com>
 
 ### LICENSE
 
@@ -21379,6 +21721,7 @@ SOFTWARE.
 ## subtle 2.6.1
 
 Declared license: BSD-3-Clause
+Upstream authors: Isis Lovecruft <isis@patternsinthevoid.net>, Henry de Valence <hdevalence@hdevalence.ca>
 
 ### LICENSE
 
@@ -21417,6 +21760,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ## syn 2.0.119
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: David Tolnay <dtolnay@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -21629,6 +21973,7 @@ DEALINGS IN THE SOFTWARE.
 ## syn 3.0.6
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: David Tolnay <dtolnay@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -21841,6 +22186,7 @@ DEALINGS IN THE SOFTWARE.
 ## synstructure 0.14.0
 
 Declared license: MIT
+Upstream authors: Nika Layzell <nika@thelayzells.com>
 
 ### LICENSE
 
@@ -21857,6 +22203,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## tempfile 3.27.0
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: Steven Allen <steven@stebalien.com>, The Rust Project Developers, Ashley Mannix <ashleymannix@live.com.au>, Jason White <me@jasonwhite.io>
 
 ### LICENSE-APACHE
 
@@ -22096,6 +22443,7 @@ DEALINGS IN THE SOFTWARE.
 ## thiserror-impl 2.0.20
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: David Tolnay <dtolnay@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -22308,6 +22656,7 @@ DEALINGS IN THE SOFTWARE.
 ## thiserror 2.0.20
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: David Tolnay <dtolnay@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -22520,6 +22869,7 @@ DEALINGS IN THE SOFTWARE.
 ## tinystr 0.8.4
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -22575,6 +22925,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## tree_magic_mini 3.2.2
 
 Declared license: MIT
+Upstream authors: Matt Brubeck <mbrubeck@limpet.net>, Allison Hancock <aahancoc@umich.edu>
 
 ### LICENSE
 
@@ -22605,6 +22956,7 @@ SOFTWARE.
 ## typenum 1.20.1
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### LICENSE
 
@@ -22843,6 +23195,7 @@ SOFTWARE.
 ## unicode-ident 1.0.26
 
 Declared license: (MIT OR Apache-2.0) AND Unicode-3.0
+Upstream authors: David Tolnay <dtolnay@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -23098,6 +23451,7 @@ authorization of the copyright holder.
 ## url 2.5.8
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: The rust-url developers
 
 ### LICENSE-APACHE
 
@@ -23337,6 +23691,7 @@ DEALINGS IN THE SOFTWARE.
 ## utf16_iter 1.0.5
 
 Declared license: Apache-2.0 OR MIT
+Upstream authors: Henri Sivonen <hsivonen@hsivonen.fi>
 
 ### COPYRIGHT
 
@@ -23623,6 +23978,7 @@ DEALINGS IN THE SOFTWARE.
 ## utf8_iter 1.0.4
 
 Declared license: Apache-2.0 OR MIT
+Upstream authors: Henri Sivonen <hsivonen@hsivonen.fi>
 
 ### COPYRIGHT
 
@@ -23909,6 +24265,7 @@ DEALINGS IN THE SOFTWARE.
 ## version_check 0.9.5
 
 Declared license: MIT/Apache-2.0
+Upstream authors: Sergio Benitez <sb@sergio.bz>
 
 ### LICENSE-APACHE
 
@@ -24142,6 +24499,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ## wasm-bindgen-macro-support 0.2.128
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: The wasm-bindgen Developers
 
 ### LICENSE-APACHE
 
@@ -24381,6 +24739,7 @@ DEALINGS IN THE SOFTWARE.
 ## wasm-bindgen-macro 0.2.128
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: The wasm-bindgen Developers
 
 ### LICENSE-APACHE
 
@@ -24620,6 +24979,7 @@ DEALINGS IN THE SOFTWARE.
 ## wasm-bindgen-shared 0.2.128
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: The wasm-bindgen Developers
 
 ### LICENSE-APACHE
 
@@ -24859,6 +25219,7 @@ DEALINGS IN THE SOFTWARE.
 ## wasm-bindgen 0.2.128
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: The wasm-bindgen Developers
 
 ### LICENSE-APACHE
 
@@ -25098,6 +25459,7 @@ DEALINGS IN THE SOFTWARE.
 ## wayland-backend 0.3.17
 
 Declared license: MIT
+Upstream authors: Elinor Berger <elinor@safaradeg.net>
 
 ### LICENSE.txt
 
@@ -25126,6 +25488,7 @@ THE SOFTWARE.
 ## wayland-client 0.31.15
 
 Declared license: MIT
+Upstream authors: Elinor Berger <elinor@safaradeg.net>
 
 ### LICENSE.txt
 
@@ -25154,6 +25517,7 @@ THE SOFTWARE.
 ## wayland-protocols-wlr 0.3.12
 
 Declared license: MIT
+Upstream authors: Elinor Berger <elinor@safaradeg.net>
 
 ### LICENSE.txt
 
@@ -25182,6 +25546,7 @@ THE SOFTWARE.
 ## wayland-protocols 0.32.13
 
 Declared license: MIT
+Upstream authors: Elinor Berger <elinor@safaradeg.net>
 
 ### LICENSE.txt
 
@@ -25210,6 +25575,7 @@ THE SOFTWARE.
 ## wayland-scanner 0.31.11
 
 Declared license: MIT
+Upstream authors: Elinor Berger <elinor@safaradeg.net>
 
 ### LICENSE.txt
 
@@ -25238,6 +25604,7 @@ THE SOFTWARE.
 ## wayland-sys 0.31.11
 
 Declared license: MIT
+Upstream authors: Elinor Berger <elinor@safaradeg.net>
 
 ### LICENSE.txt
 
@@ -25266,6 +25633,7 @@ THE SOFTWARE.
 ## windows_aarch64_gnullvm 0.53.1
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### license-apache-2.0
 
@@ -25501,6 +25869,7 @@ Declared license: MIT OR Apache-2.0
 ## windows_aarch64_msvc 0.53.1
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### license-apache-2.0
 
@@ -25736,6 +26105,7 @@ Declared license: MIT OR Apache-2.0
 ## windows_i686_gnu 0.53.1
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### license-apache-2.0
 
@@ -25971,6 +26341,7 @@ Declared license: MIT OR Apache-2.0
 ## windows_i686_gnullvm 0.53.1
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### license-apache-2.0
 
@@ -26206,6 +26577,7 @@ Declared license: MIT OR Apache-2.0
 ## windows_i686_msvc 0.53.1
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### license-apache-2.0
 
@@ -26441,6 +26813,7 @@ Declared license: MIT OR Apache-2.0
 ## windows_x86_64_gnu 0.53.1
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### license-apache-2.0
 
@@ -26676,6 +27049,7 @@ Declared license: MIT OR Apache-2.0
 ## windows_x86_64_gnullvm 0.53.1
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### license-apache-2.0
 
@@ -26911,6 +27285,7 @@ Declared license: MIT OR Apache-2.0
 ## windows_x86_64_msvc 0.53.1
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### license-apache-2.0
 
@@ -27146,6 +27521,7 @@ Declared license: MIT OR Apache-2.0
 ## windows-core 0.62.2
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### license-apache-2.0
 
@@ -27381,6 +27757,7 @@ Declared license: MIT OR Apache-2.0
 ## windows-implement 0.60.2
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### license-apache-2.0
 
@@ -27616,6 +27993,7 @@ Declared license: MIT OR Apache-2.0
 ## windows-interface 0.59.3
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### license-apache-2.0
 
@@ -27851,6 +28229,7 @@ Declared license: MIT OR Apache-2.0
 ## windows-link 0.2.1
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### license-apache-2.0
 
@@ -28086,6 +28465,7 @@ Declared license: MIT OR Apache-2.0
 ## windows-result 0.4.1
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### license-apache-2.0
 
@@ -28321,6 +28701,7 @@ Declared license: MIT OR Apache-2.0
 ## windows-strings 0.5.1
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### license-apache-2.0
 
@@ -28556,6 +28937,7 @@ Declared license: MIT OR Apache-2.0
 ## windows-sys 0.60.2
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: Microsoft
 
 ### license-apache-2.0
 
@@ -28791,6 +29173,7 @@ Declared license: MIT OR Apache-2.0
 ## windows-sys 0.61.2
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### license-apache-2.0
 
@@ -29026,6 +29409,7 @@ Declared license: MIT OR Apache-2.0
 ## windows-targets 0.53.5
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: 
 
 ### license-apache-2.0
 
@@ -29261,6 +29645,7 @@ Declared license: MIT OR Apache-2.0
 ## wl-clipboard-rs 0.9.3
 
 Declared license: MIT/Apache-2.0
+Upstream authors: Ivan Molodetskikh <yalterz@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -29500,6 +29885,7 @@ DEALINGS IN THE SOFTWARE.
 ## write16 1.0.0
 
 Declared license: Apache-2.0 OR MIT
+Upstream authors: 
 
 ### COPYRIGHT
 
@@ -29764,6 +30150,7 @@ DEALINGS IN THE SOFTWARE.
 ## writeable 0.6.4
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -29819,6 +30206,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## x11rb-protocol 0.13.2
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: Uli Schlachter <psychon@znc.in>, Eduardo Sánchez Muñoz <eduardosm-dev@e64.io>, notgull <jtnunley01@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -30059,6 +30447,7 @@ DEALINGS IN THE SOFTWARE.
 ## x11rb 0.13.2
 
 Declared license: MIT OR Apache-2.0
+Upstream authors: Uli Schlachter <psychon@znc.in>, Eduardo Sánchez Muñoz <eduardosm-dev@e64.io>, notgull <jtnunley01@gmail.com>
 
 ### LICENSE-APACHE
 
@@ -30299,6 +30688,7 @@ DEALINGS IN THE SOFTWARE.
 ## yoke-derive 0.8.3
 
 Declared license: Unicode-3.0
+Upstream authors: Manish Goregaokar <manishsmail@gmail.com>
 
 ### LICENSE
 
@@ -30354,6 +30744,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## yoke 0.8.3
 
 Declared license: Unicode-3.0
+Upstream authors: Manish Goregaokar <manishsmail@gmail.com>
 
 ### LICENSE
 
@@ -30409,6 +30800,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## zerofrom-derive 0.1.8
 
 Declared license: Unicode-3.0
+Upstream authors: Manish Goregaokar <manishsmail@gmail.com>
 
 ### LICENSE
 
@@ -30464,6 +30856,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## zerofrom 0.1.8
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -30519,6 +30912,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## zeroize 1.9.0
 
 Declared license: Apache-2.0 OR MIT
+Upstream authors: The RustCrypto Project Developers
 
 ### LICENSE-APACHE
 
@@ -30759,6 +31153,7 @@ DEALINGS IN THE SOFTWARE.
 ## zerotrie 0.2.5
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -30814,6 +31209,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## zerovec-derive 0.11.6
 
 Declared license: Unicode-3.0
+Upstream authors: Manish Goregaokar <manishsmail@gmail.com>
 
 ### LICENSE
 
@@ -30869,6 +31265,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## zerovec 0.11.8
 
 Declared license: Unicode-3.0
+Upstream authors: The ICU4X Project Developers
 
 ### LICENSE
 
@@ -30924,6 +31321,7 @@ ICU 1.8.1 to ICU 57.1 © 1995-2016 International Business Machines Corporation a
 ## zmij 1.0.23
 
 Declared license: MIT
+Upstream authors: David Tolnay <dtolnay@gmail.com>
 
 ### LICENSE-MIT
 

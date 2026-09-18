@@ -32,7 +32,9 @@ test('all eight independently installable skills carry the same pinned runtime a
   const license = await readFile(path.join(root, 'CLI-LICENSE.txt'), 'utf8')
   for (const name of names) {
     const skill = path.join(root, 'skills', name)
-    const instructions = await readFile(path.join(skill, 'SKILL.md'), 'utf8')
+    const instructions = (
+      await readFile(path.join(skill, 'SKILL.md'), 'utf8')
+    ).replace(/\r\n/g, '\n')
     assert.match(
       instructions,
       new RegExp(`^---\nname: ${name}\ndescription: .+\n---\n`),
