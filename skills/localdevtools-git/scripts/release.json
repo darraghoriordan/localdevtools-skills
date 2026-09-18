@@ -1,39 +1,39 @@
 {
   "repository": "darraghoriordan/localdevtools-skills",
-  "version": "0.1.0",
-  "tag": "cli-v0.1.0",
+  "version": "2.13.1",
+  "tag": "cli-v2.13.1",
   "protocolVersion": 1,
-  "sourceCommit": "20451ab6b7c6e1c8055f7b9d83193d560122faee",
+  "sourceCommit": "a99c74b82d36cfac98cb6ce5d8aef396f3c38fc3",
   "assets": {
     "darwin-arm64": {
       "name": "localdevtools-darwin-arm64",
-      "bytes": 6089904,
-      "sha256": "b9cb2e528171825c4992afe68a3abddad26c739e853750835dd31bda01d5d337"
+      "bytes": 6090016,
+      "sha256": "2358826dfc64cf7d94266629b38186cbef6afd66d43352556eb77b12b87edfc7"
     },
     "darwin-x64": {
       "name": "localdevtools-darwin-x64",
-      "bytes": 6272280,
-      "sha256": "f6ead20f57957665ed4bbcd6d5b8f60cba195520d5ed3f73f6553e94862cc443"
+      "bytes": 6284688,
+      "sha256": "d84e4fc9ca6cdcbd3e48fc2db8489f9683112e23439bd43882cb6d429ec3f2b1"
     },
     "win32-arm64": {
       "name": "localdevtools-win32-arm64.exe",
-      "bytes": 6163968,
-      "sha256": "be2088341282b2a8ff52d5d282d4b08b73466cae843dc6560ca3f93506482de9"
+      "bytes": 6179840,
+      "sha256": "4d0fecdeafbd6992c559bfe99044c42de57246280cd63047dcb51eed3684ce62"
     },
     "win32-x64": {
       "name": "localdevtools-win32-x64.exe",
-      "bytes": 6610432,
-      "sha256": "7b1523f0b5865b214567aeb0da9ea8e1d4e30ec23376872babf14167a3db641b"
+      "bytes": 6625280,
+      "sha256": "65d4658709b4b4641f44548c9607ea5b53deab440e9258314683fc995ab354fb"
     },
     "linux-arm64": {
       "name": "localdevtools-linux-arm64",
-      "bytes": 7574720,
-      "sha256": "8350490a9405fdcf4287dd26f3b5d79222c808065f06680abaa6390cee5f0343"
+      "bytes": 7595200,
+      "sha256": "90796c62836adc1121a70bc61bf9ca6df0bbc3232f8290c6b04d8d942d6a4ace"
     },
     "linux-x64": {
       "name": "localdevtools-linux-x64",
-      "bytes": 7990832,
-      "sha256": "9e7fb692a31d3c8444a49f762317c5bdd2ec13c4b5867663eb7c69aad8db421b"
+      "bytes": 8006936,
+      "sha256": "be0bd98a1024465674c1a7fa9a77ddfb4188be0424319ac3103718592788e371"
     }
   }
 }
