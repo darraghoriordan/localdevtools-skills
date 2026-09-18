@@ -1,0 +1,39 @@
+{
+  "repository": "darraghoriordan/localdevtools-skills",
+  "version": "0.1.0",
+  "tag": "cli-v0.1.0",
+  "protocolVersion": 1,
+  "sourceCommit": "63dee427cb211671d2445fe93e52c6f045619a54",
+  "assets": {
+    "darwin-arm64": {
+      "name": "localdevtools-darwin-arm64",
+      "bytes": 6089904,
+      "sha256": "b9cb2e528171825c4992afe68a3abddad26c739e853750835dd31bda01d5d337"
+    },
+    "darwin-x64": {
+      "name": "localdevtools-darwin-x64",
+      "bytes": 6272280,
+      "sha256": "f6ead20f57957665ed4bbcd6d5b8f60cba195520d5ed3f73f6553e94862cc443"
+    },
+    "win32-arm64": {
+      "name": "localdevtools-win32-arm64.exe",
+      "bytes": 6163968,
+      "sha256": "5d492949e7ff26c2940513beff68a3769407e218e8cee546620a134b21b3e973"
+    },
+    "win32-x64": {
+      "name": "localdevtools-win32-x64.exe",
+      "bytes": 6610432,
+      "sha256": "9111afabe279abcbc1f902b83ee4c4e3aecc4d9c5326002b816ab24b1650103f"
+    },
+    "linux-arm64": {
+      "name": "localdevtools-linux-arm64",
+      "bytes": 7574720,
+      "sha256": "8350490a9405fdcf4287dd26f3b5d79222c808065f06680abaa6390cee5f0343"
+    },
+    "linux-x64": {
+      "name": "localdevtools-linux-x64",
+      "bytes": 7990832,
+      "sha256": "9e7fb692a31d3c8444a49f762317c5bdd2ec13c4b5867663eb7c69aad8db421b"
+    }
+  }
+}
